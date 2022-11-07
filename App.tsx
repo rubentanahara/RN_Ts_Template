@@ -7,7 +7,7 @@ const App: React.FC = () => {
       <StatusBar />
       <View style={styles.container}>
         {' '}
-        Hello React - native with typescript
+        Hello React - native with typescript with new template
       </View>
     </SafeAreaView>
   );
